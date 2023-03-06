@@ -1,8 +1,7 @@
 # awesome-chatgpt-zh
 来自 OpenAI 的 ChatGPT 和 GPT-3 精选资源列表
 # 很棒的 ChatGPT
-[![推特](https://img.shields.io/twitter/url.svg?label=Follow%20%40humanloop&style=social&url=https%3A%2F%2Ftwitter.com-humanloop)](https:// twitter.com/humanloop）
-![ChatGPT](/chatgpt-header.png)
+[![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40yuchenlichuck&style=social&url=https%3A%2F%2Ftwitter.com-yuchenlichuck)](https://twitter.com/yuchenlichuck)
 
 > [ChatGPT](https://chat.openai.com) 和来自 OpenAI 的 GPT-3 的精选资源列表
 
@@ -57,7 +56,7 @@
 - [ChatARKit：使用 ChatGPT 使用自然语言创建 AR 体验](https://github.com/trzy/ChatARKit)
 - [GPT3 博客文章生成器](https://github.com/simplysabir/AI-Writing-Assistant)
 
-###命令行工具
+### 命令行工具
 - [基于语音的 chatGPT](https://github.com/platelminto/chatgpt-conversation)
 - [使用 ChatGPT 解释您的运行时错误](https://github.com/shobrook/stackexplain)
 - [GPT3 WordPress 帖子生成器](https://github.com/nicolaballotta/gtp3-wordpress-post-generator)
@@ -70,7 +69,7 @@
 - [Kubernetes 和 Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
 - [AI 驱动的基础设施即代码生成器](https://github.com/gofireflyio/aiac)
 
-＃＃＃ 网络安全
+### 网络安全
 - [Beelzebub ChatGPT 蜜罐](https://github.com/mariocandela/beelzebub)
 - [渗透测试结果生成器](https://github.com/Stratus-Security/FinGen)
 
@@ -79,7 +78,6 @@
 ...只需关注 [@goodside](https://twitter.com/goodside)
 
 ---
+### 贡献
 
-＃＃＃ 贡献
-
-这个列表最初是个人收集的关于 OpenAI 的 chatGPT 有趣的东西。 热烈欢迎您的贡献和建议。
+这个列表最初是基于[awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) 收集的关于 OpenAI 的 chatGPT 有趣的东西。 热烈欢迎您的贡献和建议。
