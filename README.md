@@ -81,7 +81,8 @@
 - [Awesome ChatGPT 提示](https://github.com/f/awesome-chatgpt-prompts)
 ...只需关注 [@goodside](https://twitter.com/goodside)
 
-
+### 机器人
+- [ChatGPT for Robotics]()
 
 ---
 ### 贡献
