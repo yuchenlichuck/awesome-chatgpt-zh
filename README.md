@@ -14,7 +14,9 @@
 #### ChatGPT 社区/讨论
 - [OpenAI Discord 频道](https://discord.com/invite/openai)
 
-
+### 科研工具
+- [上传文献，问问题，根据参考文献给出答案，还有具体页码的reference](https://huggingface.co/spaces/whitead/paper-qa)
+- [ChatExcel]
 ### API 工具
 - [Python 中的非官方 API](https://github.com/acheong08/ChatGPT)
 - [基于 TLS 的 API (Python)](https://github.com/rawandahmad698/PyChatGPT)
@@ -76,6 +78,8 @@
 ### 示例提示
 - [Awesome ChatGPT 提示](https://github.com/f/awesome-chatgpt-prompts)
 ...只需关注 [@goodside](https://twitter.com/goodside)
+
+
 
 ---
 ### 贡献
