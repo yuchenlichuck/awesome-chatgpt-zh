@@ -1,4 +1,4 @@
-# awesome-chatgpt-zh
+# 了不起的ChatGPT应用中文版
 来自 OpenAI 的 ChatGPT 和 GPT-3 精选资源列表
 # 很棒的 ChatGPT
 [![Twitter](https://img.shields.io/twitter/url.svg?label=Follow%20%40yuchen_lili&style=social&url=https%3A%2F%2Ftwitter.com-yuchen_lili)](https://twitter.com/yuchen_lili)
