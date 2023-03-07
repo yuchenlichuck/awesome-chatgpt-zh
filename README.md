@@ -19,6 +19,9 @@
 - [ChatExcel: Excel AI自动化工具](https://chatexcel.com/)
 - [上传 PDF 文件后，可以对它提问任何关于这份 PDF 的问题，非常适合快速提取各种 paper 论文的摘要](https://www.chatpdf.com/)
 
+### 音视频工具
+-  [🤖 BibiGPT · 音视频内容一键总结](https://github.com/JimmyLv/BibiGPT)
+
 ### API 工具
 - [Python 中的非官方 API](https://github.com/acheong08/ChatGPT)
 - [基于 TLS 的 API (Python)](https://github.com/rawandahmad698/PyChatGPT)
@@ -78,6 +81,9 @@
 - [Beelzebub ChatGPT 蜜罐](https://github.com/mariocandela/beelzebub)
 - [渗透测试结果生成器](https://github.com/Stratus-Security/FinGen)
 
+### WebUI
+- []()
+
 ### 示例提示
 - [Awesome ChatGPT 提示](https://github.com/f/awesome-chatgpt-prompts)
 ...只需关注 [@goodside](https://twitter.com/goodside)
@@ -87,6 +93,7 @@
 
 ### 其他类chatgpt工具
 - [open assistant](https://github.com/LAION-AI/Open-Assistant)
+
 ---
 ### 贡献
 
