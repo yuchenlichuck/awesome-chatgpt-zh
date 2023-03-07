@@ -84,6 +84,8 @@
 ### 机器人
 - [ChatGPT for Robotics]()
 
+### 其他类chatgpt工具
+- [open assistant](https://github.com/LAION-AI/Open-Assistant)
 ---
 ### 贡献
 
