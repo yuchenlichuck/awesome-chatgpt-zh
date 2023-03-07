@@ -50,6 +50,7 @@
 - [Jetbrains IDEs 插件](https://github.com/LiLittleCat/intellij-chatgpt)
 - [Slack Bot 的 ChatGPT](https://github.com/pedrorito/ChatGPTSlackBot)
 - [Discord Bot 的 ChatGPT](https://github.com/m1guelpf/chatgpt-discord)
+- [Wechat 的 ChatGPT](https://github.com/zhayujie/chatgpt-on-wechat)
 
 
 ### 社交工具
