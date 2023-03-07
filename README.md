@@ -82,7 +82,7 @@
 ...只需关注 [@goodside](https://twitter.com/goodside)
 
 ### 机器人
-- [ChatGPT for Robotics]()
+- [ChatGPT for Robotics](https://github.com/microsoft/PromptCraft-Robotics)
 
 ### 其他类chatgpt工具
 - [open assistant](https://github.com/LAION-AI/Open-Assistant)
