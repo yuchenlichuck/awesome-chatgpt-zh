@@ -71,7 +71,7 @@
 - [助手 CLI](https://github.com/diciaup/assistant-cli)
 - [AI Commit - 使用 AI 自动生成常规提交消息](https://github.com/guanguans/ai-commit)
 - [使用ChatGPT自动生成PPT，全部在一个文件中](https://github.com/williamfzc/chat-gpt-ppt)
-
+- [ChatGPT命令行补全](https://github.com/MahdeenSky/ChatGPT-Terminal-Completion)
 ### 开发运营
 - [ChatGPT 代码审查](https://github.com/kxxt/chatgpt-action)
 - [Kubernetes 和 Prometheus ChatGPT Bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot)
