@@ -29,6 +29,8 @@
 - [Dart 中的非官方 API](https://github.com/MisterJimson/chatgpt_api_dart)
 - [Golang 中的 ChatGPT (GPT-3.5-turbo) API 客户端](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go)
 
+### 图像工具
+- [Visual ChatGPT 连接 ChatGPT 和一系列 Visual Foundation Models 以实现在聊天过程中发送和接收图像。](https://github.com/microsoft/visual-chatgpt)
 ### Chrome 扩展
 - [Chrome 扩展以访问 ChatGPT 作为任何页面上的弹出窗口](https://github.com/kazuki-sf/ChatGPT_Extension)
 - [在 Google 搜索结果旁边显示 ChatGPT 响应的扩展](https://github.com/wong2/chat-gpt-google-extension)
