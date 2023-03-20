@@ -18,6 +18,7 @@
 - [Paper-qa: 上传文献，问问题，根据参考文献给出答案，还有具体页码的reference](https://huggingface.co/spaces/whitead/paper-qa)
 - [ChatExcel: Excel AI自动化工具](https://chatexcel.com/)
 - [ChatPDF: 上传 PDF 文件后，可以对它提问任何关于这份 PDF 的问题，非常适合快速提取各种 paper 论文的摘要](https://www.chatpdf.com/)
+- [SLidesGPT: Make slides with words](https://slidesgpt.com/)
 
 ### 音视频工具
 -  [🤖 BibiGPT · 音视频内容一键总结](https://github.com/JimmyLv/BibiGPT)
