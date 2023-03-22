@@ -96,7 +96,8 @@
 
 ### 其他类chatgpt工具
 - [open assistant](https://github.com/LAION-AI/Open-Assistant)
-
+### ChatGPT提示词
+- [提示词](https://github.com/f/awesome-chatgpt-prompts)
 ---
 ### 贡献
 
