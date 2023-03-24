@@ -89,6 +89,7 @@
 
 ### 示例提示
 - [Awesome ChatGPT 提示](https://github.com/f/awesome-chatgpt-prompts)
+- [理解提示词](https://github.com/prompt-engineering/understand-prompt)
 ...只需关注 [@goodside](https://twitter.com/goodside)
 
 ### 机器人
@@ -98,6 +99,7 @@
 - [open assistant](https://github.com/LAION-AI/Open-Assistant)
 ### ChatGPT提示词
 - [提示词](https://github.com/f/awesome-chatgpt-prompts)
+
 ---
 ### 贡献
 
