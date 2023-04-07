@@ -20,7 +20,7 @@
 - [ChatPDF: 上传 PDF 文件后，可以对它提问任何关于这份 PDF 的问题，非常适合快速提取各种 paper 论文的摘要](https://www.chatpdf.com/)
 - [SLidesGPT: 制作PPT利器](https://slidesgpt.com/)
 - [ChatPaper: 科研工作者读论文的福利](https://github.com/kaixindelele/ChatPaper)
-
+- [ResearchGPT: 科研工作者的福音](https://github.com/mukulpatnaik/researchgpt) Demo(https://www.dara.chat)
 ### 音视频工具
 -  [🤖 BibiGPT · 音视频内容一键总结](https://github.com/JimmyLv/BibiGPT)
 
